@@ -1,0 +1,2 @@
+# premium-rigging-001-traditional-rigging-block-plan
+Stop losing your rigging specs to paper clutter and manual miscalculations — the Traditional Rigging Block Planner turns your Notion workspace into a precision tool for planning every block, tackle, and sheave.  This Notion template eliminates the guesswork from traditional rigging by providing a structured database to track block dimensions, line
